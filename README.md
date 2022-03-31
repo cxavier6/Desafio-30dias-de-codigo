@@ -6,3 +6,4 @@ Desafio de 30 dias de código. Serão 30 dias codando projetos diferentes ou con
 
 - Dia 01: Landing page de ADOTE.
 - Dia 02: Cards com hover do Homem-aranha.
+- Dia 03: Apenas testando alguns elementos.
