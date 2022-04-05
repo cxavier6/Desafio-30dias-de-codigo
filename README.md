@@ -10,3 +10,4 @@ Desafio de 30 dias de código com HTML e CSS. Serão 30 dias codando projetos di
 - Dia 04: Modelo de formulário de cadastro.
 - Dia 05: Clone de plataforma de streaming.
 - Dia 06: Utilização do Flexbox.
+- Dia 07: Finalização do módulo de Flexbox da Alura.
