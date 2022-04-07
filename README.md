@@ -12,3 +12,4 @@ Desafio de 30 dias de código com HTML e CSS. Serão 30 dias codando projetos di
 - Dia 06: Utilização do Flexbox.
 - Dia -: Finalização do módulo de Flexbox da Alura.
 - Dia 07: Landing Page do Boston Celtics, utilizando vídeo no background e z-index.
+- Dia 08: Adiciona a parte História na Landing Page do Boston Celtics.
