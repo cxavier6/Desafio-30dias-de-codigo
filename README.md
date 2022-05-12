@@ -16,3 +16,5 @@ Desafio de 30 dias de código com HTML e CSS. Serão 30 dias codando projetos di
 - Dia 09: Landing Page com modelo ficticio de um Porsche R18.
 
 ## Continuação do projeto no repositório 30 mini projetos.
+
+https://github.com/cxavier6/30-mini-projetos
